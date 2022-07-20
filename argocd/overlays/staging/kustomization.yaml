@@ -10,4 +10,4 @@ patches:
   patch: |-
     - op: replace
       path: /spec/template/spec/containers/0/image
-      value: xxxxx.dkr.ecr.eu-west-3.amazonaws.com/multienv-vote-feature-two:xxxxx
+      value: 712324673482.dkr.ecr.eu-west-3.amazonaws.com/multienv-vote-feature-three:latest 
